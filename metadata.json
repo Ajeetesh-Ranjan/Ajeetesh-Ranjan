@@ -1,0 +1,5 @@
+{
+  "name": "Audit Cycle management tool",
+  "description": "A client-side User Access Review (UAR) tool that automates reconciliation between baseline and remediation reports, generates diff analysis, and prepares audit packages without a database.",
+  "requestFramePermissions": []
+}
